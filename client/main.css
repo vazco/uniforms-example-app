@@ -1,0 +1,7 @@
+html body {
+    background-color: #eee;
+}
+
+.app-container {
+    min-height: 100vh;
+}
