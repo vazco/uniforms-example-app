@@ -1,4 +1,10 @@
-# Simple uniforms example app
+<h1 align="center">
+    <a href="https://github.com/vazco">vazco</a>/Universe Example App
+</h1>
+
+&nbsp;
+
+## Simple uniforms example app
 
 This repository shows basic usage of [uniforms](https://github.com/vazco/uniforms/).
 
@@ -12,3 +18,9 @@ For more info visit [official docs](https://github.com/vazco/uniforms/blob/maste
     - `meteor npm install`
 1) Run app with:
     - `meteor npm start`
+
+## License
+
+<img src="https://vazco.eu/banner.png" align="right">
+
+**Like every package maintained by [Vazco](https://vazco.eu/), Universe Example App is [MIT licensed](https://github.com/vazco/uniforms/blob/master/LICENSE).**
